@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Cognevance Portfolio Website
 
 A modern, responsive full-stack portfolio website developed as part of the **Cognevance Technologies Full Stack Web Developer Internship**.
@@ -155,3 +156,7 @@ Coming Soon...
 ## 📄 License
 
 This project is developed for educational and internship purposes under the Cognevance Technologies Full Stack Web Developer Internship Program.
+=======
+# cognevance_portfolio
+A modern, responsive full-stack portfolio website built with React, Node.js, Express, and MongoDB. Features a clean UI, responsive design, project showcase, and a backend-powered contact form with database integration. Developed as part of the Cognevance Technologies Full Stack Web Developer Internship.
+>>>>>>> 19cdfd5871c9645ee580ad0841b2e8eeecbaf47b
